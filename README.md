@@ -18,14 +18,14 @@ Database Mart自2005年成立以来，一直致力于为全球客户提供优质
 
 ## Database Mart官网地址
 
-Database Mart官网: [https://www.databasemart.com](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af)
+Database Mart官网: [https://www.databasemart.com](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2)
 
 
 ## Database Mart优惠码
 
 当前Database Mart正在举办**20周年庆典活动**，提供高达63%的折扣优惠，所有套餐均享受永久折扣，续费同价，无开机费用 。
 
-[点击查看Database Mart官网最新优惠活动](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af/promo/anniversary)
+[点击查看Database Mart官网最新优惠活动](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2/promo/anniversary)
 
 ## Database Mart优惠活动
 
@@ -33,36 +33,36 @@ Database Mart官网: [https://www.databasemart.com](https://www.databasemart.com
 
 | 套餐名称 | CPU/内存/存储 | 带宽 | 优惠折扣 | 特惠价格 | 购买链接 |
 |---------|--------------|------|---------|---------|----------|
-| Express Linux VPS | 2核/4GB/60GB SSD | 100Mbps不限流 | 5折 | $2.58/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| Basic Linux VPS | 4核/8GB/140GB SSD | 200Mbps不限流 | 6折 | $6.75/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| Professional Linux VPS | 8核/18GB/240GB SSD | 300Mbps不限流 | 7折 | $15.59/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
+| Express Linux VPS | 2核/4GB/60GB SSD | 100Mbps不限流 | 5折 | $2.58/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| Basic Linux VPS | 4核/8GB/140GB SSD | 200Mbps不限流 | 6折 | $6.75/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| Professional Linux VPS | 8核/18GB/240GB SSD | 300Mbps不限流 | 7折 | $15.59/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
 
 ### Windows VPS套餐
 
 | 套餐名称 | CPU/内存/存储 | 带宽 | 优惠折扣 | 特惠价格 | 购买链接 |
 |---------|--------------|------|---------|---------|----------|
-| Windows Desktop-Express | 2核/4GB/60GB SSD | 100Mbps不限流 | 5.5折 | $2.89/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| Windows Desktop-Basic | 4核/8GB/140GB SSD | 200Mbps不限流 | 6折 | $7.14/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| Windows Server-Express | 2核/4GB/60GB SSD | 100Mbps不限流 | 6折 | $5.49/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| Windows Server-Basic | 4核/8GB/140GB SSD | 200Mbps不限流 | 6折 | $10.44/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
+| Windows Desktop-Express | 2核/4GB/60GB SSD | 100Mbps不限流 | 5.5折 | $2.89/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| Windows Desktop-Basic | 4核/8GB/140GB SSD | 200Mbps不限流 | 6折 | $7.14/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| Windows Server-Express | 2核/4GB/60GB SSD | 100Mbps不限流 | 6折 | $5.49/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| Windows Server-Basic | 4核/8GB/140GB SSD | 200Mbps不限流 | 6折 | $10.44/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
 
 ### GPU服务器套餐
 
 | 套餐名称 | GPU型号 | GPU显存 | CPU/内存/存储 | 带宽 | 优惠折扣 | 特惠价格 | 购买链接 |
 |---------|---------|---------|--------------|------|---------|---------|----------|
-| GPU Dedicated-K620 | Nvidia Quadro K620 | 2GB DDR3 | 4核/16GB/120GB+960GB SSD | 100Mbps不限流 | 4.5折 | $25/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| GPU Dedicated-P620 | Nvidia Quadro P620 | 2GB GDDR5 | 8核/32GB/120GB+960GB SSD | 100Mbps不限流 | 5折 | $34.5/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| GPU Dedicated-1650 | Nvidia GeForce GTX 1650 | 4GB GDDR5 | 8核/64GB/120GB+960GB SSD | 100Mbps不限流 | 5折 | $59.5/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| GPU Dedicated-A4000 | Nvidia Quadro RTX A4000 | 16GB GDDR6 | 24核/128GB/240GB+2TB SSD | 100Mbps不限流 | 5折 | $139.5/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| GPU Dedicated-A100 | Nvidia A100 | 40GB HBM2 | 36核/256GB/多重存储 | 100Mbps不限流 | 5折 | $399.2/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
+| GPU Dedicated-K620 | Nvidia Quadro K620 | 2GB DDR3 | 4核/16GB/120GB+960GB SSD | 100Mbps不限流 | 4.5折 | $25/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| GPU Dedicated-P620 | Nvidia Quadro P620 | 2GB GDDR5 | 8核/32GB/120GB+960GB SSD | 100Mbps不限流 | 5折 | $34.5/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| GPU Dedicated-1650 | Nvidia GeForce GTX 1650 | 4GB GDDR5 | 8核/64GB/120GB+960GB SSD | 100Mbps不限流 | 5折 | $59.5/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| GPU Dedicated-A4000 | Nvidia Quadro RTX A4000 | 16GB GDDR6 | 24核/128GB/240GB+2TB SSD | 100Mbps不限流 | 5折 | $139.5/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| GPU Dedicated-A100 | Nvidia A100 | 40GB HBM2 | 36核/256GB/多重存储 | 100Mbps不限流 | 5折 | $399.2/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
 
 ### 物理独立服务器套餐
 
 | 套餐名称 | CPU/内存/存储 | 带宽 | 优惠折扣 | 特惠价格 | 购买链接 |
 |---------|--------------|------|---------|---------|----------|
-| Express Dedicated Server | 4核E3-1230/32GB/120GB+960GB SSD | 100Mbps不限流 | 7折 | $37.8/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| Professional Dedicated Server | 16核双E5-2660/128GB/120GB+960GB SSD | 100Mbps不限流 | 6折 | $65.4/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
-| Enterprise Dedicated Server | 48核双Platinum 8160/256GB/多重SSD | 100Mbps不限流 | 6.5折 | $155/月 | [立即购买](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af) |
+| Express Dedicated Server | 4核E3-1230/32GB/120GB+960GB SSD | 100Mbps不限流 | 7折 | $37.8/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| Professional Dedicated Server | 16核双E5-2660/128GB/120GB+960GB SSD | 100Mbps不限流 | 6折 | $65.4/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
+| Enterprise Dedicated Server | 48核双Platinum 8160/256GB/多重SSD | 100Mbps不限流 | 6.5折 | $155/月 | [立即购买](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2) |
 
 ## Database Mart测评
 
@@ -82,7 +82,7 @@ Database Mart在权威评测网站HostAdvice获得**4.1/5分**的综合评级，
 
 Database Mart的安全团队定期进行威胁识别、安全审计、系统补丁更新，并持续升级硬件、软件和安全协议以保护客户数据和业务运营 。所有GPU服务器均提供独立显卡资源，绝不与其他用户共享 。
 
-更多Database Mart用户评价与详细测评: [点击查看](https://www.databasemart.com/?aff_id=c35bf2d6ab224842b06c4db6ec85d9af/reviews)
+更多Database Mart用户评价与详细测评: [点击查看](https://www.databasemart.com/?aff_id=af606cd6c40545f59b3dc13f506d0ba2/reviews)
 
 ---
 
